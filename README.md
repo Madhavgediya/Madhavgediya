@@ -1,5 +1,5 @@
 
-![MasterHead](https://github.com/Madhavgediya/Madhavgediya/blob/main/banner.gif)
+![MasterHead](https://github.com/Madhavgediya/Madhavgediya/blob/main/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif)
 
 <h1 align="center">Hi 👋, I'm Madhav R. Gediya</h1>
 <h3 align="center">Internship & Student</h3>
