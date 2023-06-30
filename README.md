@@ -14,10 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="/https://www.linkedin.com/in/madhav-gediya-59b610264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madhav-gediya-59b610264" height="30" width="40" /></a>
-<a href="https://fb.com/https://madhav.gediya.7?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/madhav.gediya.7?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/madhav_soni_04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/madhav_soni_04/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@madhavgediya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@madhavgediya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/madhav-gediya-59b610264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhav-gediya-59b610264" height="30" width="40" /></a>
+<a href="https://fb.com/madhav.gediya.7?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="madhav.gediya.7?mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://instagram.com/madhav_soni_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madhav_soni_04" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@madhavgediya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="madhavgediya" height="30" width="40" /></a>
 <a href="https://discord.gg/madhavgediya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="madhavgediya" height="30" width="40" /></a>
 </p>
 
