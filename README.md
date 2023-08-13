@@ -9,11 +9,14 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JS, PHP, REACT.JS, NODE.JS, PYTHON, ASP.NET**
 
+- 📜  Check My [Web-Resume](https://madhavgediya.github.io/NAVIGATION-BAR-TASK/ALL%20LANGUAGE/Resume%20Demo%20Main/index.html)
+
 - 📝 I regularly write articles on [https://madhavgediya.blogspot.com/](https://madhavgediya.blogspot.com/)
 
 - 💬 Ask me about **React, Mongo DB**
 
 - 📫 How to reach me **madhavgediya1@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
